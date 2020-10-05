@@ -1,0 +1,140 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="AMR BD IPTV",GAZI TV HD
+http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="AMR BD IPTV",MAASRANGA TV HD
+http://103.214.202.218:8081/live/maasranga/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="AMR BD IPTV",CHANNEL 9 HD
+http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="AMR BD IPTV",DEEPTO TV HD
+http://103.214.202.218:8081/live/deepto/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="AMR BD IPTV",ASIAN TV HD
+http://103.214.202.218:8081/live/asiantv-bd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="AMR BD IPTV",NTV
+http://103.214.202.218:8081/live/ntv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="AMR BD IPTV",RTV HD
+http://103.214.202.218:8081/live/rtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="AMR BD IPTV",ATN NEWS TV
+http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="AMR BD IPTV",BOISHAKHI TV
+http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="AMR BD IPTV",BANGLA TV HD
+http://103.214.202.218:8081/live/banglatv-19/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="AMR BD IPTV",EKATTOR TV HD
+http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="AMR BD IPTV",SA TV HD
+http://103.214.202.218:8081/live/satv-22/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="AMR BD IPTV",NAGORIK TV HD
+http://103.214.202.218:8081/live/nagorik/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="AMR BD IPTV",MOHONA TV
+http://103.214.202.218:8081/live/mohona/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="AMR BD IPTV",NEWS 24 HD
+http://103.214.202.218:8081/live/news24-24/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="AMR BD IPTV",DBC NEWS HD
+http://103.214.202.218:8081/live/dbc/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="AMR BD IPTV",INDEPENDENT TV
+http://103.214.202.218:8081/live/independent/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="AMR BD IPTV",SOMOY TV
+http://103.214.202.218:8081/live/somoy/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="AMR BD IPTV",JAMUNA TV
+http://103.214.202.218:8081/live/jamuna/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="AMR BD IPTV",ATN BANGLA
+http://103.214.202.218:8081/live/atnbangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="AMR BD IPTV",CHANNEL I HD
+http://103.214.202.218:8081/live/channeli/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="AMR BD IPTV",MY TV
+http://103.214.202.218:8081/live/mytv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="AMR BD IPTV",EKUSHEY TV
+http://103.214.202.218:8081/live/ekushey/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="AMR BD IPTV",BIJOY TV
+http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="AMR BD IPTV",ATN Islam
+http://103.214.202.218:8081/live/atnislamictv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-music.jpg" group-title="AMR BD IPTV",ATN MUSIC TV
+http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="AMR BD IPTV",GAAN BANGLA HD
+http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="AMR BD IPTV",Star Jalsha HD [IN]
+http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="AMR BD IPTV",Zee Bangla HD [IN]
+http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="AMR BD IPTV",Colors Bangla HD [IN]
+http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="AMR BD IPTV",Jalsha Movies [IN]
+http://103.214.202.218:8081/live/jalshamovies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="AMR BD IPTV",Zee Bangla Cinema [IN]
+http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="AMR BD IPTV",Sangeet Bangla [IN]
+http://ddn.amrbd.com:8081/live/sangeetbangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="AMR BD IPTV",STAR PLUS HD
+http://ddn.amrbd.com:8081/live/starplus/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="AMR BD IPTV",SONY HD
+http://103.214.202.218:8081/live/sony-40/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="AMR BD IPTV",Zee TV HD
+http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="AMR BD IPTV",And TV HD
+http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="AMR BD IPTV",Star Gold HD
+http://ddn.amrbd.com:8081/live/stargold/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="AMR BD IPTV",SONY SET MAX HD
+http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="AMR BD IPTV",Zee Cinema HD
+http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="AMR BD IPTV",And Picture HD
+http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="AMR BD IPTV",Zee Action
+http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="AMR BD IPTV",B4U Kadak
+http://103.144.200.7:8080/hls/b4uka/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="AMR BD IPTV",Star Sports 1 HD
+http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="AMR BD IPTV",Star Sports 2 HD
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="AMR BD IPTV",Star Sports Select 1 HD
+http://103.214.202.218:8081/live/select1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="AMR BD IPTV",Star Sports Select 2 HD
+http://103.214.202.218:8081/live/select2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="AMR BD IPTV",Sony Ten 1 HD
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="AMR BD IPTV",Sony Ten 2 HD
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="AMR BD IPTV",Sony Ten 3 HD
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="AMR BD IPTV",ESPN HD
+http://103.214.202.218:8081/live/espnhd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nOrLoWi.jpg" group-title="AMR BD IPTV",Willow Cricket HD
+http://ddn.amrbd.com:8081/live/willo-hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="AMR BD IPTV",Discovery HD
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="AMR BD IPTV",ANIMAL PLANET HD
+http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="AMR BD IPTV",NGC
+http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="AMR BD IPTV",NAT GEO WILD
+http://103.214.202.218:8081/live/natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5adlvsI.png" group-title="AMR BD IPTV",NAT GEO PEOPLE
+http://103.214.202.218:8081/live/natgeop/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="AMR BD IPTV",History TV HD
+http://103.214.202.218:8081/live/history/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="AMR BD IPTV",BBC News
+http://103.214.202.218:8081/live/bbcearth-47/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="AMR BD IPTV",& Prive HD
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="AMR BD IPTV",& Flix HD 
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="AMR BD IPTV",HBO HD
+http://103.214.202.218:8081/live/hbohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="AMR BD IPTV",MNX
+http://103.214.202.218:8081/live/mnx/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="AMR BD IPTV",Movies Now
+http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="AMR BD IPTV",ROMEDY NOW
+http://103.214.202.218:8081/live/romedynow/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="AMR BD IPTV",Star Movies
+http://103.214.202.218:8081/live/starmovies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="AMR BD IPTV",Zee Cafe HD
+http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="AMR BD IPTV",STAR WORLD
+http://103.214.202.218:8081/live/startworld/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="AMR BD IPTV",Zoom
+http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="AMR BD IPTV",Music Mastii
+http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
