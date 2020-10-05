@@ -6,4 +6,4 @@ This project is a collection of IPTV channels found on the internet. The m3u fil
 
 Most of the links are collected from https://amarnettv.github.io/
 
-`this is a test branch`
+`this branch contains mature content`
