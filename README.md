@@ -14,4 +14,4 @@ Most of the links are collected from [AmarNetTV](https://amarnettv.github.io/)
 - `countries` folder contains channels categorized into different countries.
 
 ### **Usage**
-clone the repository to local storage and add the files to your preferred IPTV Player. 
+clone the repository to local storage and add the files into your preferred IPTV Player. 
