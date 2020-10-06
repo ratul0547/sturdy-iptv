@@ -4,7 +4,7 @@
 
 This project is a collection of IPTV channels found on the internet. The m3u files have been modified to have some convenience with different iptv player apps.
 
-Most of the links are collected from [AmarnetTV](https://amarnettv.github.io/)
+Most of the links are collected from [AmarNetTV](https://amarnettv.github.io/)
 
 
 ### **Files description**
