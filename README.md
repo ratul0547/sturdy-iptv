@@ -9,6 +9,9 @@ Most of the links are collected from https://amarnettv.github.io/
 
 ### Files description
 
-`TV.m3u` File contains almost 5000 channels including Bangladeshi channels.
+`TV.m3u` File contains almost 5000 channels including Bangladeshi channels. \n
+`categories` folder contains multiple m3u files of bangladeshi and foreign TV channels categorized into different files for easy use in mobile devices. \n
+`countries` folder contains channels categorized into different countries.
 
-`categories` folder contains multiple m3u files of bangladeshi and foreign TV channels categorized in different files for easy use in mobile devices.
+### Usage
+clone the repository to local device and add the files in your preferred IPTV Player. \n
