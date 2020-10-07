@@ -16,7 +16,7 @@ Most of the links are collected from [AmarNetTV](https://amarnettv.github.io/)
 - `categories` folder contains multiple m3u files of bangladeshi and foreign TV channels categorized into different files for easy use in mobile devices. 
 - `countries` folder contains channels categorized into different countries.
 
-### **>> [[Download]](https://github.com/ratul0547/sturdy-iptv/files/5340854/IPTV-collection.zip)**
+### **>> [[Download]](https://github.com/ratul0547/sturdy-iptv/files/5341068/IPTV-collection.zip)**
 
 ### Usage
 Extract the files, and add the files into your preferred IPTV Player.
