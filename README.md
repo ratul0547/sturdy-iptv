@@ -2,7 +2,7 @@
 
 ## **A collection of some IPTV channels**
 
-https://github.com/ratul0547/sturdy-iptv/releases
+https://github.com/ratul0547/sturdy-iptv/
 
 
 This project is a collection of IPTV channels found on the internet. The m3u files have been modified to have some convenience with different iptv player apps.
